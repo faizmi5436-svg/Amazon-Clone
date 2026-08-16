@@ -21,7 +21,7 @@ A frontend clone of the Amazon website built to practice and demonstrate web dev
 
 ## 🌐 Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_LINK)
+[View Live Demo](amazon-clone-chi-topaz.vercel.app)
 
 ## 💻 How to Run
 
